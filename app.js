@@ -84,7 +84,7 @@ function retryWithCorrection() {
 window.retryWithCorrection = retryWithCorrection;
 
 // OpenRouter API Configuration
-const OPENROUTER_API_KEY = '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';
+const OPENROUTER_API_KEY = 'API key';
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 
 // Send message to AI
